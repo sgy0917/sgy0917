@@ -34,7 +34,7 @@
 </div>
 
 
-<h3 align="center"> /🧾 Portfolio 🧾
+<h3 align="center">🧾 Portfolio 🧾
 <div>
   <a href="https://github.com/changzin/weddingmate.git" style="color: black; text-decoration: none;">
       <p style="font-size:12px; margin: 0;">웨딩메이트: 웨딩 플래너 기능을 탑재한 특별한 쇼핑몰(2024.06.13 ~ 2024.07.17)</p>
