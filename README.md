@@ -1,7 +1,7 @@
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=GEON%20YONG%20Git%20Hub.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=GEON%20YONG%20Git%20Hub.&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">🪜 Tech Stack 🪜</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -34,4 +34,19 @@
 </div>
 
 
+<h3 align="center"> /🧾 Portfolio 🧾
+<div>
+  <a href="https://github.com/changzin/weddingmate.git" style="color: black; text-decoration: none;">
+      <p style="font-size:12px; margin: 0;">웨딩메이트: 웨딩 플래너 기능을 탑재한 특별한 쇼핑몰(2024.06.13 ~ 2024.07.17)</p>
+  </a>
+  <a href="https://github.com/changzin/meetme.git" style="color: black; text-decoration: none;">
+      <p style="font-size:12px; margin: 0;">MeetMe: Chat GPT 이미지 분석 매칭 플랫폼(2024.07.18~2024.08.20)</p>
+  </a>
+</div>
+
+
+</br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgy0917&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgy0917&layout=compact)](https://github.com/sgy0917/github-readme-stats)
