@@ -36,12 +36,15 @@
 
 <h3 align="center">🧾 Portfolio 🧾
 <div>
+ <div>
   <a href="https://github.com/changzin/weddingmate.git" style="color: black; text-decoration: none;">
-      <p style="font-size:12px; margin: 0;">웨딩메이트: 웨딩 플래너 기능을 탑재한 특별한 쇼핑몰(2024.06.13 ~ 2024.07.17)</p>
+      <p style="font-size:12px; margin: 0; color: inherit;">웨딩메이트: 웨딩 플래너 기능을 탑재한 특별한 쇼핑몰(2024.06.13 ~ 2024.07.17)</p>
   </a>
   <a href="https://github.com/changzin/meetme.git" style="color: black; text-decoration: none;">
-      <p style="font-size:12px; margin: 0;">MeetMe: Chat GPT 이미지 분석 매칭 플랫폼(2024.07.18~2024.08.20)</p>
+      <p style="font-size:12px; margin: 0; color: inherit;">MeetMe: Chat GPT 이미지 분석 매칭 플랫폼(2024.07.18~2024.08.20)</p>
   </a>
+</div>
+
 </div>
 
 
@@ -50,3 +53,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgy0917&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgy0917&layout=compact)](https://github.com/sgy0917/github-readme-stats)
+
+
